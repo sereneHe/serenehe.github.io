@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: ExDBN-DNN for Causal Discovery
+date: 2025-12-01
+external_link: https://github.com/sereneHe/ExDBN-DNN
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Causal Discovery
+  - Deep Learning
+  - Biomedical Data
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A deep learning based framework for causal structure learning with domain constraints. The project combines ExDBN priors and neural methods to improve graph recovery quality on observational datasets.
 
 <!--more-->

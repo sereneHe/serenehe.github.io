@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Learning Multiple Dynamical Systems
+date: 2025-08-01
+external_link: ''
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Dynamical Systems
+  - Time-series
+  - Optimization
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Research on joint learning of multiple dynamical systems for clustering and causal analysis, emphasizing robust estimation and interpretable structure.
 
 <!--more-->

@@ -9,7 +9,7 @@ date: "2024-09-01T00:00:00Z"
 doi: ""
 publishDate: "2024-09-01T00:00:00Z"
 publication_types: ["paper-conference"]
-publication: In *ECML-PKDD PhD Forum 2024*
+publication: In *ECML-PKDD 2024*
 publication_short: In *ECML-PKDD 2024*
 
 abstract: This work studies how linear dynamical system learning can support clustering and causal structure learning in time-series settings. We examine practical modeling trade-offs and demonstrate how system dynamics can improve interpretability and downstream causal analysis.
@@ -28,7 +28,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://ecmlpkdd.org/2024/program-accepted-phd-forum/"
 url_video: ""
 
 image:
@@ -39,3 +39,5 @@ image:
 projects: []
 slides: ""
 ---
+
+Xiaoyu He, Petr Rysavy, Jakub Marecek (2024). [Applications of Learning Linear Dynamical Systems in Clustering and Causal Learning](https://ecmlpkdd.org/2024/program-accepted-phd-forum/). In *ECML-PKDD 2024*.

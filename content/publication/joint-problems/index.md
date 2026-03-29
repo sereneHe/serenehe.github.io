@@ -9,10 +9,10 @@ authors:
 
 date: "2023-11-03T00:00:00Z"
 doi: "10.48550/arXiv.2311.02181"
-publishDate: "2023-11-03T00:00:00Z"
-publication_types: ["article"]
-publication: "*arXiv preprint arXiv:2311.02181*"
-publication_short: "arXiv"
+publishDate: "2025-09-17T00:00:00Z"
+publication_types: ["paper-conference"]
+publication: 'In *2025 61st Allerton Conference on Communication, Control, and Computing Proceedings*'
+publication_short: "Allerton 2025"
 
 abstract: Clustering of time series is a well-studied problem, with applications ranging from quantitative personalized models of metabolism obtained from metabolite concentrations to state discrimination in quantum information theory. We consider a variant in which, given a set of trajectories and a number of parts, we jointly partition the set of trajectories and learn linear dynamical system models for each part to minimize the maximum error across all models.
 summary: Jointly partitioning trajectories and learning multiple linear dynamical systems.
@@ -22,7 +22,7 @@ tags:
   - Optimization
   - Time-series
 
-featured: false
+featured: true
 
 url_pdf: "https://arxiv.org/pdf/2311.02181"
 url_code: ""
@@ -30,7 +30,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://arxiv.org/abs/2311.02181"
+url_source: "https://www.ideals.illinois.edu/items/137362"
 url_video: ""
 
 image:

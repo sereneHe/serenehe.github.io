@@ -39,5 +39,3 @@ image:
 projects: []
 slides: ""
 ---
-
-Xiaoyu He, Petr Rysavy, Jakub Marecek (2024). [Applications of Learning Linear Dynamical Systems in Clustering and Causal Learning](https://ecmlpkdd.org/2024/program-accepted-phd-forum/). In *ECML-PKDD 2024*.

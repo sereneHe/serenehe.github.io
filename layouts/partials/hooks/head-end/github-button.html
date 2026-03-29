@@ -7,6 +7,41 @@
     font-weight: 600;
     line-height: 1.3;
   }
+
+  .home-tech-skills {
+    margin-top: 1.75rem;
+    grid-column: 1 / -1;
+  }
+
+  .home-tech-skills h4 {
+    margin: 0 0 0.9rem;
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  .home-tech-skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .home-tech-skill-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.55rem 0.85rem;
+    border: 1px solid rgba(148, 163, 184, 0.28);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.04);
+    font-size: 0.95rem;
+    line-height: 1;
+  }
+
+  .home-tech-skill-chip svg {
+    width: 1rem;
+    height: 1rem;
+    flex-shrink: 0;
+  }
 </style>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
@@ -31,5 +66,37 @@
         node.textContent = "Research Interests";
       }
     });
+
+    var infoGrid = document.querySelector(".grid.grid-cols-1.md\\:grid-cols-2");
+    if (infoGrid && !document.querySelector(".home-tech-skills")) {
+      var techSection = document.createElement("div");
+      techSection.className = "home-tech-skills";
+
+      var heading = document.createElement("h4");
+      heading.className = "section-subheading mb-3";
+      heading.textContent = "Technical Skills";
+      techSection.appendChild(heading);
+
+      var skillsGrid = document.createElement("div");
+      skillsGrid.className = "home-tech-skills-grid";
+
+      var icons = {
+        Python: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8V5.5A2.5 2.5 0 0 1 10.5 3h3A2.5 2.5 0 0 1 16 5.5V8"/><path d="M16 16v2.5A2.5 2.5 0 0 1 13.5 21h-3A2.5 2.5 0 0 1 8 18.5V16"/><path d="M8 8h8a3 3 0 0 1 3 3v1a3 3 0 0 1-3 3H8a3 3 0 0 1-3-3v-1a3 3 0 0 1 3-3Z"/><circle cx="9.5" cy="11.5" r=".5" fill="currentColor" stroke="none"/><circle cx="14.5" cy="11.5" r=".5" fill="currentColor" stroke="none"/></svg>',
+        R: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="10" cy="12" rx="6.5" ry="4.5"/><path d="M14.5 9.5c3.5 0 6 1.3 6 3.5s-2.5 3.5-6 3.5"/><path d="M12 9.5 16.8 17"/></svg>',
+        MATLAB: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m4 18 4-11 4 8 3-6 5 9"/><path d="M4 18h16"/></svg>',
+        Git: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="7" r="1.5"/><circle cx="17" cy="12" r="1.5"/><circle cx="7" cy="17" r="1.5"/><path d="M8.5 7H13a4 4 0 0 1 4 4v0"/><path d="M8.5 17H13a4 4 0 0 0 4-4v0"/><path d="M7 8.5v7"/></svg>',
+        Gurobi: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4.5 7.5v9L12 21l7.5-4.5v-9L12 3Z"/><path d="M9 12h6"/><path d="M12 9v6"/></svg>'
+      };
+
+      ["Python", "R", "MATLAB", "Git", "Gurobi"].forEach(function (name) {
+        var chip = document.createElement("div");
+        chip.className = "home-tech-skill-chip";
+        chip.innerHTML = (icons[name] || "") + "<span>" + name + "</span>";
+        skillsGrid.appendChild(chip);
+      });
+
+      techSection.appendChild(skillsGrid);
+      infoGrid.appendChild(techSection);
+    }
   });
 </script>

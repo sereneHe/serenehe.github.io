@@ -91,22 +91,14 @@ skills:
         description: ''
         percent: 75
         icon: circle-stack
-  - name: Methods
-    color: '#0ea5a3'
-    color_border: '#14b8a6'
-    items:
-      - name: Causal Inference
-        description: ''
-        percent: 90
-        icon: chart-bar
-      - name: Time-series Modeling
-        description: ''
-        percent: 88
-        icon: chart-bar
-      - name: Deep Learning
+      - name: Git
         description: ''
         percent: 85
         icon: code-bracket
+      - name: Gurobi
+        description: ''
+        percent: 80
+        icon: circle-stack
 
 languages:
   - name: English

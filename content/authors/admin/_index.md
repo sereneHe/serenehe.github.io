@@ -38,12 +38,12 @@ education:
     date_end: 2017-12-31
   - area: BSc in Applied Mathematics
     institution: University of Liverpool
-    date_start: 2013-09-01
+    date_start: 2014-09-01
     date_end: 2016-06-30
   - area: BSc in Applied Mathematics
     institution: Xi'an Jiaotong-Liverpool University
-    date_start: 2013-09-01
-    date_end: 2016-06-30
+    date_start: 2012-09-01
+    date_end: 2014-06-30
 
 work:
   - position: Research Assistant

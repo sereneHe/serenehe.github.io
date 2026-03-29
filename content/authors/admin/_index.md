@@ -20,11 +20,12 @@ profiles:
     url: https://github.com/sereneHe
 
 interests:
+  - Optimisation
   - Causal Inference
-  - Machine Learning for Biomedicine
-  - Dynamical Systems
+  - Machine Learning
+  - Dynamical Systems Learning
   - Time-series Modeling
-  - Statistical Learning
+  - Statistics
 
 education:
   - area: PhD in Computer Science

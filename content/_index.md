@@ -11,6 +11,8 @@ sections:
     content:
       username: admin
       text: ""
+      headings:
+        interests: Skills
       button:
         text: Download CV
         url: uploads/Xiaoyu_He_CV.docx

@@ -1,6 +1,5 @@
 ---
 title: Xiaoyu He
-name_pronunciation: Xiao-yu He
 first_name: Xiaoyu
 last_name: He
 status:

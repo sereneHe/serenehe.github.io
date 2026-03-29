@@ -125,8 +125,8 @@ awards: []
 
 ## About Me
 
-I am a 3-rd year PhD student in Computer Science at Czech Technical University in Prague (CVUT). My research is broadly concerned with causal learning, optimization, and machine learning for biomedical applications.
+I am a PhD student in Computer Science at Czech Technical University in Prague (CVUT). My research focuses on causal learning, optimization, and machine learning.
 
-I am interested in developing methods for estimating causal effects from high-dimensional observational data, particularly in the presence of confounding and uncertainty. Much of my work is motivated by problems arising in clinical studies and multi-omics data analysis, where robust causal inference is essential for drawing reliable conclusions from complex data.
+I develop optimization-based methods for simulating and learning causal graphs, with a particular focus on acceleration methods based on clique-width and causal graphs with confounding. My work has applications across several domains, and I am currently involved in the [CoDiet Project](https://www.codiet.eu/), working with nutritional and multi-omics data.
 
 More generally, I am interested in building interpretable and principled statistical and machine learning methods that connect methodological development with practical questions in biomedical research.

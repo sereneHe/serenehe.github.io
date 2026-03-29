@@ -28,22 +28,6 @@ sections:
           position: center
           parallax: false
 
-  - block: markdown
-    content:
-      title: Research Focus
-      subtitle: ""
-      text: |-
-        My research lies at the intersection of causal inference, dynamical systems, and machine learning for biomedical data.
-
-        I am particularly interested in:
-        - causal effect estimation from observational data
-        - causal graph learning under latent confounding
-        - robust modeling of high-dimensional clinical and metabolomics data
-
-        I enjoy collaborations that connect statistical rigor with practical impact.
-    design:
-      columns: '1'
-
   - block: collection
     content:
       title: All Publications

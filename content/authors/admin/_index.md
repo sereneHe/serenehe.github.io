@@ -4,8 +4,6 @@ first_name: Xiaoyu
 last_name: He
 name_native: 贺晓宇
 name_story: 我爸爸给我起这个名字，意思是知晓宇宙。
-status:
-  icon: "☕"
 superuser: true
 highlight_name: true
 role: PhD Researcher in Computer Science

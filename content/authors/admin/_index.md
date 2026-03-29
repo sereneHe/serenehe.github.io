@@ -124,4 +124,8 @@ awards: []
 
 ## About Me
 
-I am a PhD researcher in Computer Science at CVUT, working on optimization, causal learning, and machine learning for biomedical applications. My work focuses on estimating causal effects from high-dimensional observational data under confounding and uncertainty, with applications in clinical and multi-omics settings. I build research-driven, interpretable models that connect statistical methodology with real-world impact.
+I am a 3-rd year PhD student in Computer Science at Czech Technical University in Prague (CVUT). My research is broadly concerned with causal learning, optimization, and machine learning for biomedical applications.
+
+I am interested in developing methods for estimating causal effects from high-dimensional observational data, particularly in the presence of confounding and uncertainty. Much of my work is motivated by problems arising in clinical studies and multi-omics data analysis, where robust causal inference is essential for drawing reliable conclusions from complex data.
+
+More generally, I am interested in building interpretable and principled statistical and machine learning methods that connect methodological development with practical questions in biomedical research.

@@ -27,4 +27,25 @@ sections:
           size: cover
           position: center
           parallax: false
+
+  - block: tech-stack
+    content:
+      title: Technical Skills
+      subtitle: ""
+      categories:
+        - name: ""
+          items:
+            - name: Python
+              icon: devicon/python
+            - name: R
+              icon: chart-bar
+            - name: MATLAB
+              icon: calculator
+            - name: Git
+              icon: devicon/git
+            - name: Gurobi
+              icon: cpu-chip
+    design:
+      style: list
+      show_levels: false
 ---

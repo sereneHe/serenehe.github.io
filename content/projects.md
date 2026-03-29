@@ -9,7 +9,6 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Research Projects
       filters:
         folders:
           - project

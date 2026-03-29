@@ -21,13 +21,13 @@ tags:
 
 featured: true
 
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2406.15189"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://arxiv.org/abs/2406.15189"
 url_video: ""
 
 image:

@@ -67,7 +67,16 @@
       }
     });
 
-    var infoGrid = document.querySelector(".grid.grid-cols-1.md\\:grid-cols-2");
+    var infoGrid = Array.from(document.querySelectorAll("div")).find(function (node) {
+      return (
+        node.classList &&
+        node.classList.contains("grid") &&
+        node.classList.contains("grid-cols-1") &&
+        Array.from(node.classList).some(function (className) {
+          return className.indexOf("md:grid-cols-2") !== -1;
+        })
+      );
+    });
     if (infoGrid && !document.querySelector(".home-tech-skills")) {
       var techSection = document.createElement("div");
       techSection.className = "home-tech-skills";

@@ -23,17 +23,17 @@ tags:
 
 featured: true
 
-url_pdf: 'https://arxiv.org/abs/2503.08245'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://arxiv.org/abs/2503.08245'
-url_video: ''
+url_pdf: "https://arxiv.org/pdf/2503.08245"
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: "https://arxiv.org/abs/2503.08245"
+url_video: ""
 
 image:
-  caption: ''
+  caption: ""
   focal_point: ""
   preview_only: false
 

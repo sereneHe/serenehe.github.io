@@ -77,7 +77,7 @@ work:
       - Performed anomaly detection on large-scale manufacturing data
 
 skills:
-  - name: Technical Skills
+  - name: ""
     items:
       - name: Python
         description: ''

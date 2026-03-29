@@ -91,20 +91,6 @@ skills:
         description: ''
         percent: 75
         icon: circle-stack
-  - name: Data Management & MLOps
-    items:
-      - name: Git
-        description: ''
-        percent: 90
-        icon: code-bracket
-      - name: Docker
-        description: ''
-        percent: 80
-        icon: circle-stack
-      - name: DVC
-        description: ''
-        percent: 75
-        icon: chart-bar
   - name: Methods
     color: '#0ea5a3'
     color_border: '#14b8a6'
@@ -121,10 +107,6 @@ skills:
         description: ''
         percent: 85
         icon: code-bracket
-      - name: Reinforcement Learning
-        description: ''
-        percent: 70
-        icon: chart-bar
 
 languages:
   - name: English
@@ -141,4 +123,4 @@ awards: []
 
 ## About Me
 
-I am a PhD researcher in Computer Science at CVUT, Prague, working on optimization, causal learning, and machine learning for biomedical applications. My work focuses on estimating causal effects from high-dimensional observational data under confounding and uncertainty, with applications in clinical and multi-omics settings. I build research-driven, interpretable models that connect statistical methodology with real-world impact.
+I am a PhD researcher in Computer Science at CVUT, working on optimization, causal learning, and machine learning for biomedical applications. My work focuses on estimating causal effects from high-dimensional observational data under confounding and uncertainty, with applications in clinical and multi-omics settings. I build research-driven, interpretable models that connect statistical methodology with real-world impact.

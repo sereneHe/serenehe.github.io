@@ -38,17 +38,3 @@ image:
 projects: []
 slides: ""
 ---
-
-## Figures
-
-### Ground Truth Structure
-
-![Ground truth structure](fig-groundtruth.png)
-
-### Circular SID Comparison
-
-![Circular SID comparison](fig-circlebarplot-sid.png)
-
-### Metrics Error Bar Plot
-
-![Metrics error bar plot](fig-barplot-metrics-error.png)

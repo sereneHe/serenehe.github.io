@@ -1,7 +1,7 @@
 ---
 title: "Causal Learning in Biomedical Applications: Krebs Cycle as a Benchmark"
 authors:
-  - admin
+  - Xiaoyu He
   - Petr Rysavy
   - Jakub Marecek
 date: "2025-01-01T00:00:00Z"

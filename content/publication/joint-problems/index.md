@@ -2,7 +2,7 @@
 title: "Joint Problems in Learning Multiple Dynamical Systems"
 authors:
   - Mengjia Niu
-  - admin
+  - Xiaoyu He
   - Petr Rysavy
   - Quan Zhou
   - Jakub Marecek

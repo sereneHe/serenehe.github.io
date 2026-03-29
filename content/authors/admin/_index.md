@@ -100,16 +100,6 @@ skills:
         percent: 80
         icon: circle-stack
 
-languages:
-  - name: English
-    percent: 95
-  - name: Mandarin
-    percent: 100
-  - name: Spanish
-    percent: 35
-  - name: Czech
-    percent: 30
-
 awards: []
 ---
 

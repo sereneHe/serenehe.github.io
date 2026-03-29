@@ -82,7 +82,7 @@ skills:
       - name: Python
         description: ''
         percent: 95
-        icon: code-bracket
+        icon: command-line
       - name: R
         description: ''
         percent: 85
@@ -90,15 +90,15 @@ skills:
       - name: MATLAB
         description: ''
         percent: 75
-        icon: circle-stack
+        icon: calculator
       - name: Git
         description: ''
         percent: 85
-        icon: code-bracket
+        icon: code-bracket-square
       - name: Gurobi
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: cpu-chip
 
 awards: []
 ---

@@ -16,6 +16,9 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/sereneHe
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-0859-9911
+    label: ORCID
 
 interests:
   - Optimisation

@@ -9,8 +9,8 @@ marketing:
     org_name: ''
     description: 'Personal academic website of Xiaoyu He, PhD researcher in causal inference and machine learning.'
     same_as:
-      - 'https://github.com/sereneHe?tab=repositories'
-      - 'https://www.linkedin.com/feed/'
+      - 'https://github.com/sereneHe'
+      - 'https://orcid.org/0000-0003-0859-9911'
       - 'https://cs.fel.cvut.cz/en/people/hexiaoyu'
     twitter: ''
   analytics:

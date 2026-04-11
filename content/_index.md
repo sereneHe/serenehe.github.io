@@ -15,7 +15,7 @@ sections:
         interests: Skills
       button:
         text: Download CV
-        url: uploads/Xiaoyu_He_CV.docx
+        url: uploads/Xiaoyu_He_CV.pdf
     design:
       css_class: dark
       background:

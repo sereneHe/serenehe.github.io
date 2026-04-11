@@ -16,9 +16,9 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/sereneHe
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0003-0859-9911
-    label: ORCID
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/xiaoyu-he-b91a21160/
+    label: LinkedIn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=zh-CN&user=KBf4QOEAAAAJ&view_op=list_works&gmla=AEk_c1sJwlP7udLWpI4Kpl9BxiVXXVtYy2r9fnM4Y6pe0UKAP6D3UFCw7rLAN92Ug9GPErOPVs1me22ou9XCr5t83EqGmfnP6Y3j7lz3Pls
     label: Google Scholar

@@ -1,5 +1,5 @@
 ---
-title: Xiaoyu(Serene) He
+title: Xiaoyu He
 first_name: Xiaoyu
 last_name: He
 name_native: 贺晓宇

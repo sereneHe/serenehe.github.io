@@ -137,8 +137,4 @@ I am a PhD candidate in Computer Science at the Czech Technical University in Pr
 
 My research combines causal discovery, mathematical optimisation and learning of dynamical systems. I work on exact, optimisation-based structure learning, including ancestral graphs under latent confounding ([ExMAG](https://arxiv.org/abs/2503.08245)) and [clique constraints](https://arxiv.org/abs/2611.12747) for exact DAG learning, and on causal analysis that remains reliable under distribution shift, batch effects and differences between centres. I also proposed the Krebs cycle as a ground-truth benchmark for causal learning.
 
-Directions I would like to explore next include joint clustering of physiological signals such as ECG, EEG-based diagnosis of epilepsy in children, who often cannot describe their symptoms clearly, and the long-term health effects of diet on the gut microbiome.
-
-Before my PhD, I analysed microbiome and cancer genomics data as a bioinformatics research technician at the First Affiliated Hospital of Xi'an Jiaotong University, and worked as an operations data analyst at Seagate Technology. This experience keeps my research grounded in messy, real-world data.
-
 Beyond research, I enjoy explaining how a meal changes our metabolism over time, and why "what caused what" is often harder to answer than it looks. I am always happy to discuss collaborations on causal discovery, certified optimisation for machine learning, and data-driven modelling of metabolism and health.

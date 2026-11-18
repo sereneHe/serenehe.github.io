@@ -1,5 +1,5 @@
 ---
-title: "Applications of Learning Linear Dynamical Systems in Clustering and Causal Learning"
+title: "Applications of Learning Linear Dynamical Systems"
 authors:
   - Xiaoyu He
   - Jakub Marecek

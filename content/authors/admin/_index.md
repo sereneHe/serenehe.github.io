@@ -38,10 +38,7 @@ education:
     institution: Czech Technical University in Prague
     date_start: 2023-09-01
     date_end: 2027-07-31
-    summary: |2-
-      - Advisor: Jakub Mareček
-      - Thesis: Causal Modelling via Learning of Dynamical Systems
-      - Causal discovery, mixed-integer and polynomial optimisation, dynamical systems, biomedical data
+    date_end_note: (expected)
   - area: MSc in Statistics (Merit)
     institution: University of Manchester
     date_start: 2016-09-01

@@ -149,7 +149,8 @@
           <div>
             <div class="font-medium">{{ .area }}</div>
             <div class="text-sm">{{ .institution }}</div>
-            {{ with .date_start }}<div class="text-sm text-gray-500 dark:text-gray-400">{{ time.Format "2006" . }}{{ with $.date_end }} - {{ time.Format "2006" . }}{{ end }}</div>{{ end }}
+            {{ $edu := . }}
+            {{ with .date_start }}<div class="text-sm text-gray-500 dark:text-gray-400">{{ time.Format "2006" . }}{{ with $edu.date_end }} - {{ time.Format "2006" . }}{{ end }}{{ with $edu.date_end_note }} {{ . }}{{ end }}</div>{{ end }}
           </div>
         </li>
         {{ end }}

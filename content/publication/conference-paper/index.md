@@ -2,8 +2,10 @@
 title: "Applications of Learning Linear Dynamical Systems in Clustering and Causal Learning"
 authors:
   - Xiaoyu He
-  - Petr Rysavy
   - Jakub Marecek
+  - Quan Zhou
+  - Mengjia Niu
+  - Petr Rysavy
 
 date: "2024-09-01T00:00:00Z"
 doi: ""

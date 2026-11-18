@@ -30,7 +30,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://www.ideals.illinois.edu/items/137362"
+url_source: "https://hdl.handle.net/2142/130321"
 url_video: ""
 
 image:

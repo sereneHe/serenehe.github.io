@@ -2,16 +2,16 @@
 title: "ExMAG: Learning of Maximally Ancestral Graphs"
 authors:
   - Petr Rysavy
-  - Petr Rytir
+  - Pavel Rytir
   - Xiaoyu He
-  - Gabriel Korpas
+  - Georgios Korpas
   - Jakub Marecek
 date: "2025-03-01T00:00:00Z"
 doi: ""
 publishDate: "2025-03-01T00:00:00Z"
 publication_types: ["article"]
-publication: "*arXiv preprint arXiv:2503.08245*"
-publication_short: "arXiv"
+publication: "*arXiv preprint arXiv:2503.08245* (under review at ICLR 2027)"
+publication_short: "arXiv:2503.08245 (under review at ICLR 2027)"
 
 abstract: ExMAG addresses causal graph learning in the presence of latent confounding by learning maximally ancestral graphs from observational data. The method aims to improve robustness and interpretability in settings where standard DAG assumptions are violated.
 summary: Learning maximally ancestral graphs under latent confounding.

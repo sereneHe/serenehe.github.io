@@ -4,12 +4,12 @@ authors:
   - Xiaoyu He
   - Petr Rysavy
   - Jakub Marecek
-date: "2025-01-01T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
 doi: ""
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*F1000Research*"
-publication_short: "F1000Research"
+publication: "*F1000Research* (accepted; open peer review pending)"
+publication_short: "F1000Research (accepted; open peer review pending)"
 
 abstract: We investigate causal learning methods in biomedical contexts using the Krebs cycle as an interpretable benchmark. The study compares modeling assumptions and robustness under practical data limitations commonly found in observational biomedical datasets.
 summary: Biomedical causal learning benchmarked on the Krebs cycle.

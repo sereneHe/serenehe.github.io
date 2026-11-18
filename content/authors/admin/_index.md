@@ -17,7 +17,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/sereneHe
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/xiaoyu-he-b91a21160/
+    url: https://www.linkedin.com/in/xiaoyu-he-341082281/
     label: LinkedIn
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-0859-9911

@@ -94,10 +94,15 @@
         R: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="10" cy="12" rx="6.5" ry="4.5"/><path d="M14.5 9.5c3.5 0 6 1.3 6 3.5s-2.5 3.5-6 3.5"/><path d="M12 9.5 16.8 17"/></svg>',
         MATLAB: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m4 18 4-11 4 8 3-6 5 9"/><path d="M4 18h16"/></svg>',
         Git: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="7" r="1.5"/><circle cx="17" cy="12" r="1.5"/><circle cx="7" cy="17" r="1.5"/><path d="M8.5 7H13a4 4 0 0 1 4 4v0"/><path d="M8.5 17H13a4 4 0 0 0 4-4v0"/><path d="M7 8.5v7"/></svg>',
-        Gurobi: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4.5 7.5v9L12 21l7.5-4.5v-9L12 3Z"/><path d="M9 12h6"/><path d="M12 9v6"/></svg>'
+        Gurobi: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4.5 7.5v9L12 21l7.5-4.5v-9L12 3Z"/><path d="M9 12h6"/><path d="M12 9v6"/></svg>',
+        Julia: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 4v16"/><path d="M6 4h5a4 4 0 0 1 0 8H6"/><path d="m12 12 5 8"/></svg>',
+        PyTorch: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><path d="M12 8v4l3 3"/></svg>',
+        CPLEX: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M8 12h8"/><path d="M12 8v8"/></svg>',
+        Hydra: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><path d="M4 12h16"/><path d="M12 4v16"/></svg>',
+        MLflow: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m4 18 5-10 4 6 3-4 4 8"/><path d="M4 18h16"/></svg>'
       };
 
-      ["Python", "R", "MATLAB", "Git", "Gurobi"].forEach(function (name) {
+      ["Python", "R", "Julia", "MATLAB", "PyTorch", "Gurobi", "CPLEX", "Hydra", "MLflow", "Git"].forEach(function (name) {
         var chip = document.createElement("div");
         chip.className = "home-tech-skill-chip";
         chip.innerHTML = (icons[name] || "") + "<span>" + name + "</span>";

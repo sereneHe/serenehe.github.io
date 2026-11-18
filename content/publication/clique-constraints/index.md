@@ -2,9 +2,9 @@
 title: "Clique Constraints for Exact Causal Structure Learning"
 authors:
   - Xiaoyu He
-  - Pavel Rytir
-  - Petr Rysavy
-  - Jakub Marecek
+  - Pavel Rytíř
+  - Petr Ryšavý
+  - Jakub Mareček
 
 date: "2026-11-09T00:00:00Z"
 doi: ""
@@ -18,8 +18,8 @@ summary: Lazy clique constraints and QR-based incumbent repair for exact causal 
 
 tags:
   - Causal Discovery
-  - Optimization
-  - Mixed-Integer Programming
+  - Optimisation
+  - Mixed-integer Programming
 
 featured: false
 

@@ -12,7 +12,7 @@ sections:
       username: admin
       text: ""
       headings:
-        interests: Skills
+        interests: Research Interests
       button:
         text: Download CV
         url: uploads/Xiaoyu_He_CV.pdf

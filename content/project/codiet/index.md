@@ -8,6 +8,6 @@ tags:
   - Biomedical Data
 ---
 
-A collaborative research project on nutrition and multi-omics data, with a focus on data-driven modeling and causal analysis for biomedical applications.
+A collaborative research project on nutrition and multi-omics data, with a focus on data-driven modelling and causal analysis for biomedical applications. My role is to apply causal discovery to phenotype and multi-omics data, supporting a personalised-nutrition recommender system.
 
 <!--more-->

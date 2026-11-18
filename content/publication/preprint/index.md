@@ -1,11 +1,11 @@
 ---
 title: "ExMAG: Learning of Maximally Ancestral Graphs"
 authors:
-  - Petr Rysavy
-  - Pavel Rytir
+  - Petr Ryšavý
+  - Pavel Rytíř
   - Xiaoyu He
   - Georgios Korpas
-  - Jakub Marecek
+  - Jakub Mareček
 date: "2025-03-01T00:00:00Z"
 doi: ""
 publishDate: "2025-03-01T00:00:00Z"

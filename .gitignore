@@ -4,3 +4,4 @@ go.sum
 hugo_stats.json
 public/
 resources/
+.DS_Store

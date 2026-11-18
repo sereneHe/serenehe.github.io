@@ -13,6 +13,7 @@ sections:
       text: ""
       headings:
         interests: Research Interests
+      show_education: false
       button:
         text: Download CV
         url: uploads/Xiaoyu_He_CV.pdf

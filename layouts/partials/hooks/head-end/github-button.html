@@ -43,6 +43,7 @@
     flex-shrink: 0;
   }
 </style>
+{{ if .IsHome }}
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll(".avatar-emoji").forEach(function (node) {
@@ -114,3 +115,4 @@
     }
   });
 </script>
+{{ end }}

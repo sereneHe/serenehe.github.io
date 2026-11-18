@@ -13,12 +13,6 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: true
-  - block: resume-skills
-    content:
-      title: Technical Skills
-      username: admin
-    design:
-      show_skill_percentage: false
   - block: markdown
     content:
       title: Teaching

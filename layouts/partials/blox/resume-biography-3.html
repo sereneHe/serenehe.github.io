@@ -139,6 +139,9 @@
     </div>
     {{ end }}
 
+    {{ $show_education := true }}
+    {{ if isset $block.content "show_education" }}{{ $show_education = $block.content.show_education }}{{ end }}
+    {{ if $show_education }}
     {{ with $person.education }}
     <div class="">
       <div class="section-subheading mb-3">{{ i18n "education" | markdownify }}</div>
@@ -156,6 +159,7 @@
         {{ end }}
       </ul>
     </div>
+    {{ end }}
     {{ end }}
 
   </div>
